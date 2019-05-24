@@ -1,3 +1,3 @@
 # Capstone-1
-# Data Wrangling report can be found at
-# https://docs.google.com/document/d/1CfU3Z0V8MKpghoSX7WNGMDp3kAUpN1-O1_hXygNOFr0/edit
+
+The data set is 38.5MB and therefore cannot be uploaded to GitHub. It can be found at https://www.kaggle.com/petersunga/google-amazon-facebook-employee-reviews
