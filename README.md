@@ -6,26 +6,19 @@ The data set is 38.5MB and therefore cannot be uploaded to GitHub. It can be fou
 
 Steps:
 
-Data Wrangling
+1. Data Wrangling
 
-Exploratory Data Analysis
+2. Exploratory Data Analysis
 
-Feature Engineering
+3. Feature Engineering
 
-Modelling
+4. Modelling
 
-Comparison of model accuracy
+5. Comparison of model accuracy
+
 
 
 Machine learning models applied on the dataset:
 
-Linear regression
-
-Ridge regression
-
-Lasso regression
-
-Random forest regressor
-
-Gradient boosting regressor
+Linear regression, Ridge regression, Lasso regression, Random forest regressor, Gradient boosting regressor
 
